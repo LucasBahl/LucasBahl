@@ -1,11 +1,11 @@
 
 # Hi 👋 i'm Lucas Bahl
-### Feel free to look around!
+Feel free to look around!
 
 <br>
 
 
-~~🚀 Full Stack Developer 🚀~~ = **In Progress!**
+### ~~🚀 Full Stack Developer 🚀~~ = **In Progress!** ###
 
 
 <br>
