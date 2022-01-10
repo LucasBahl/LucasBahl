@@ -8,9 +8,9 @@
 <br>
 
 <div align="center">
-     Welcome, Im Lucas, 27 years old from Argentina, for a long time was wondering what to do in my free time and always i felt passionate with programming but never      focus on it. 
-     During quarenteen i had to do something and i met NUCBA, a great bootcamp to start and be part of this great world of programmers that i needed
-     to bring my desiree to live.
+     Welcome, Im Lucas, 27 years old from Argentina, for a long time was wondering what to do in my free time and always i felt passionate with programming but never      put my focus on it. 
+     During quarantine i had to do something and i met NUCBA, a great bootcamp to start and be part of this great world of programmers that i needed
+     to bring my desire to live.
 </div>
 
 <br>
