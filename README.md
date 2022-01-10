@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hi 👋 i'm Lucas Bahl
+### Feel free to look around!
 
-<!--
-**LucasBahl/LucasBahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+~~🚀 Full Stack Developer 🚀~~ = **In Progress!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+     Welcome, Im Lucas, 27 years old from Argentina, for a long time was wondering what to do in my free time and always i felt passionate with programming but never      focus on it. 
+     During quarenteen i had to do something and i met NUCBA, a great bootcamp to start and be part of this great world of programmers that i needed
+     to bring my desiree to live.
+</div>
+
+<br>
+
+<div style="display: inline_block"><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=LucasBahl&theme=dark&show_icons=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&count_private=false"/>
+</div>                 
+
+<div>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+</div>
+
+##
+
+<div>
+    <a href="https://www.facebook.com/LucasABahl/" target="_blank"><img align="center" height="30" widht="40" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <a href="https://www.instagram.com/lucasbahl/" target="_blank"><img align="center" height="30" widht="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <a href="https://www.linkedin.com/in/lucas-bahl-ba76b5183/" target="_blank"><img align="center" height="30" widht="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>    
+    
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)   
