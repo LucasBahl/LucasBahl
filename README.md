@@ -5,7 +5,7 @@ Feel free to look around!
 <br>
 
 
-### ~~🚀 Full Stack Developer 🚀~~ = **In Progress!** ###
+🚀 Full Stack Developer 🚀
 
 
 <br>
