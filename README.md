@@ -10,9 +10,7 @@ Feel free to look around!
 
 <br>
 
-<div align="center">
-     am a 29 year old professional with a strong background as a full-stack web developer. With three
- years of experience in this field, I have honed my skills in creating dynamic and user-friendly websites. My journey as a freelancer has allowed me to gain valuable insights into the ever-evolving world of web development, enhancing my proficiency in programming languages such as Javascript with Vue and React framework. NodeJs with express and MongoDB.
+<div align="center">I am a 29 year old professional with a strong background as a full-stack web developer. With three years of experience in this field, I have honed my skills in creating dynamic and user-friendly websites. My journey as a freelancer has allowed me to gain valuable insights into the ever-evolving world of web development, enhancing my proficiency in programming languages such as Javascript with Vue and React framework. NodeJs with express and MongoDB.
 </div>
 
 <br>
